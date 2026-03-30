@@ -60,7 +60,14 @@ Testes da funcionalidade de login, incluindo:
 - Plano de teste
 - Bug reports
 
-🔗 [link do repositório]()
+🔗 [link do repositório](https://github.com/DeboraTaveiraa/Portfolio-QA/tree/main/qa-login-tests)
+
+### 👩🏽‍💻 Portfólio Front-End
+- Projetos desenvolvidos
+- Ferramentas utilizadas
+- Empresas em que atuei como desenvolvedora
+
+🔗 [link do portfólio](https://deborataveiraa.github.io/Portfolio/)
 
 ---
 
