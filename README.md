@@ -71,13 +71,6 @@ Testes da funcionalidade de login, incluindo:
 
 ---
 
-
-### 📈 Em aprendizado
-
-- Testes automatizados com Cypress
-
----
-
 ### 📬 Contato
 
 - LinkedIn: https://www.linkedin.com/in/deborataveiraa/
