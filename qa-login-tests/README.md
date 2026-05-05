@@ -1,4 +1,4 @@
-# 🧪 QA Login Tests - SwagLabs (SauceDemo)
+# QA Login Tests - SwagLabs (SauceDemo)
 
 ### 📌 Sobre o projeto
 
@@ -22,24 +22,25 @@ Validar o funcionamento da tela de login, garantindo:
 
 ### 🔬 Tipos de testes realizados
 
-- ✅ Testes funcionais (happy path)
+- ✅ Testes funcionais
 - ❌ Testes negativos
-- ⚠️ Testes de borda (edge cases)
+- ⚠️ Testes de borda
 - 🔐 Testes de segurança
 - 👁️‍🗨️ Testes de acessibilidade
+- 📱 Testes de responsividade 
 
 ---
 
 ### 📂 Estrutura do projeto
 
-`qa-login-tests/`<br>
+[`qa-login-tests/`](README.md)<br>
 │<br>
-├── `login-test-cases/` # Casos de teste _(concluído)_<br>
-├── `login-bug-reports/` # Bugs encontrados _(em andamento)_<br>
-├── `login-test-plan/` # Plano de teste _(backlog)_<br>
+├── [`login-test-cases/`](login-test-cases.md) # Casos de teste _(concluído)_<br>
+├── [`login-bug-reports/`](login-bug-reports.md) # Bugs encontrados _(concluído)_<br>
+├── [`login-test-plan/`](login-test-plan.md) # Plano de teste _(concluído)_<br>
 ├── `login-automation/` # Testes automatizados _(backlog)_<br>
 ├── `login-evidences/` # Prints e evidências _(backlog)_<br>
-└── `README.md`
+└── [`README.md`](README.md)
 
 ---
 
