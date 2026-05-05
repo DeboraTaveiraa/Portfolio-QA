@@ -1,4 +1,4 @@
-## 🧪 Plano de Testes – Funcionalidade de Login
+## 🔍 Plano de Testes – Funcionalidade de Login
 
 ### 📌 1. Introdução
 
@@ -26,7 +26,7 @@ Garantir que a funcionalidade de login opere corretamente sob diferentes cenári
 
 --- 
 
-### 🧪 4. Estratégia de Teste
+### 🧮 4. Estratégia de Teste
 - Testes baseados nos [casos de teste documentados](login-test-cases.md)
 - Testes manuais exploratórios
 - Execução em múltiplos navegadores e dispositivos
@@ -34,7 +34,7 @@ Garantir que a funcionalidade de login opere corretamente sob diferentes cenári
 
 ---
 
-### 🧰 5. Tipos de Teste
+### 📋 5. Tipos de Teste
 - Funcional
 - Negativo
 - Edge cases
