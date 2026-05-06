@@ -35,11 +35,10 @@ Validar o funcionamento da tela de login, garantindo:
 
 [`qa-login-tests/`](README.md)<br>
 │<br>
-├── [`login-test-cases/`](login-test-cases.md) # Casos de teste _(concluído)_<br>
-├── [`login-bug-reports/`](login-bug-reports.md) # Bugs encontrados _(concluído)_<br>
-├── [`login-test-plan/`](login-test-plan.md) # Plano de teste _(concluído)_<br>
-├── `login-automation/` # Testes automatizados _(backlog)_<br>
-├── `login-evidences/` # Prints e evidências _(backlog)_<br>
+├── [`login-test-cases/`](login-test-cases.md) # Casos de teste<br>
+├── [`login-bug-reports/`](login-bug-reports.md) # Bugs encontrados <br>
+├── [`login-test-plan/`](login-test-plan.md) # Plano de teste<br>
+├── [`login-evidences/`](login-evidences) # Prints e evidências<br>
 └── [`README.md`](README.md)
 
 ---
