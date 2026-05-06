@@ -58,7 +58,7 @@ Testes da funcionalidade de login, incluindo:
 - Testes funcionais, negativos, borda, segurança e acessibilidade
 - Bug reports
 
-### [👩🏽‍💻 Portfólio Front-End](https://deborataveiraa.github.io/Portfolio/)
+### [👩🏽‍💻 Portfólio Front-End](https://deborataveiraa.github.io/portfolio-frontend/)
 - Projetos pessoais desenvolvidos
 - Ferramentas utilizadas
 - Empresas em que atuei como desenvolvedora
