@@ -61,9 +61,11 @@ Baixa | Baixa
 - Dispositivos: Desktop, Tablet e Mobile
 
 ## 📸 Evidência
-Desktop
+Desktop <br>
 ![Mensagem de erro quebrada no desktop](login-evidences/login-message-error-desktop.png)
-Tablet
+
+<br> Tablet <br>
 ![Mensagem de erro quebrada no tablet](login-evidences/login-message-error-tablet.png)
-Mobile
+
+<br> Mobile <br>
 ![Mensagem de erro quebrada no mobile](login-evidences/login-message-error-mobile.png)
