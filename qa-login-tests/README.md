@@ -45,7 +45,7 @@ Validar o funcionamento da tela de login, garantindo:
 
 ### 🧠 Análise e Conclusão de QA
 
-Até o momento foram realizados testes manuais e o sistema apresentou funcionamento adequado no fluxo principal de login, todavia foi identificada uma oportunidade de melhoria na validação de entrada envolvendo espaços em branco.
+Até o momento foram realizados testes manuais e o sistema apresentou funcionamento adequado no fluxo principal de login, todavia foram identificadas melhorias de severidade baixa e média, como validação de entrada envolvendo espaços em branco e na legibilidade da mensagem de erro.
 
 ---
 
