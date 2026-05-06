@@ -8,8 +8,8 @@ Ao inserir um username válido com espaços em branco no início e/ou fim, o sis
 5. Clicar no botão **Login**
 
 ## ❌ Resultado Atual
-Sistema exibe a mensagem:
-**"Epic sadface: Username and password do not match any user in this service"**
+Sistema exibe a mensagem: <br>
+**"Epic sadface: Username and password do not match any user in this service"**  <br>
 e não realiza o login.
 
 ## ✅ Comportamento Esperado
@@ -28,3 +28,42 @@ Média | Média
 
 ## 📸 Evidência
 ![Erro no login](login-evidences/error-username-with-white-space.png)
+
+---
+---
+
+## 🐞 #02 [Login] Mensagem de erro com padding insuficiente compromete legibilidade
+Ao realizar login com credenciais inválidas, a mensagem de erro exibida apresenta espaçamento interno (padding) inadequado, fazendo com que o texto fique visualmente comprimido e parcialmente oculto.
+
+## 🔁 Passos para reproduzir
+1. Acessar https://www.saucedemo.com/
+2. Inserir dados inválidos nos campos **Username** e **Password**
+3. Clicar no botão **Login**
+
+## ❌ Resultado Atual
+A mensagem: <br>
+**"Epic sadface: Username and password do not match any user in this service"**  <br>
+é exibida com padding insuficiente, resultando em texto comprimido e com possível corte visual.
+
+## ✅ Comportamento Esperado
+A mensagem de erro deve ser exibida com espaçamento interno adequado, garantindo legibilidade completa e consistência visual em diferentes resoluções.
+
+## 💥 Impacto
+O problema compromete a legibilidade da mensagem de erro e pode afetar a experiência do usuário em diferentes resoluções, além de impactar critérios básicos de usabilidade e acessibilidade.
+
+## 🚨 Severidade | ⏱️ Prioridade
+Baixa | Baixa
+
+
+## 🌍 Ambiente Testado
+- SO: Linux e Android
+- Navegadores: Chrome (147.0.7727.137) e Firefox (150.0.1)
+- Dispositivos: Desktop, Tablet e Mobile
+
+## 📸 Evidência
+Desktop
+![Mensagem de erro quebrada no desktop](login-evidences/login-message-error-desktop.png)
+Tablet
+![Mensagem de erro quebrada no tablet](login-evidences/login-message-error-tablet.png)
+Mobile
+![Mensagem de erro quebrada no mobile](login-evidences/login-message-error-mobile.png)
